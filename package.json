@@ -1,0 +1,23 @@
+{
+  "name": "reactpack",
+  "version": "0.0.0",
+  "description": "Webpack boilerplate",
+  "main": "index.js",
+  "release": "npx standard-version",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divji/TestWorkflow.git"
+  },
+  "author": "divjii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divji/TestWorkflow/issues"
+  },
+  "homepage": "https://github.com/divji/TestWorkflow#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
